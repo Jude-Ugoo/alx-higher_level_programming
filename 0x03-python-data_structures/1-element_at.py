@@ -8,6 +8,6 @@ def element_at(my_list, idx):
         if i == my_list[idx]:
             return i
 
-    #while idx < len(my_list):
-        #idx = idx + 1
-        #return idx
+    # while idx < len(my_list):
+        # idx = idx + 1
+        # return idx
