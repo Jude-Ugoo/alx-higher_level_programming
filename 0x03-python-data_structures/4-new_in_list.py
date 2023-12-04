@@ -7,5 +7,5 @@ def new_in_list(my_list, idx, element):
         return my_list
 
     while idx < len(my_list):
-            dup_list[idx] = element
-            return dup_list
+        dup_list[idx] = element
+        return dup_list
